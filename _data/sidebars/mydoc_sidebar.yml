@@ -44,15 +44,27 @@ entries:
             url: /mydoc_virtual_environments.html
             output: web, pdf
 
-      - title: Release Notes
+      - title: Basics Of Python
         output: web, pdf
         folderitems:
-          - title: 6.0 Release notes
-            url: /mydoc_release_notes_60.html
+          - title: Printing
+            url: /mydoc_printing.html
             output: web, pdf
 
-          - title: 5.0 Release notes
-            url: /mydoc_release_notes_50.html
+          - title: Data Types
+            url: /mydoc_data_types.html
+            output: web, pdf
+
+          - title: User Input
+            url: /mydoc_user_input.html
+            output: web, pdf
+
+          - title: Iteration
+            url: /mydoc_iteration.html
+            output: web, pdf
+
+          - title: Conditionals
+            url: /mydoc_conditionals.html
             output: web, pdf
 
       - title: Installation
